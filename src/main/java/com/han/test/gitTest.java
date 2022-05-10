@@ -13,5 +13,7 @@ public class gitTest {
         System.out.println("hello hot-fix");
         System.out.println("push commit");
         System.out.println("push commit1");
+        System.out.println("pull commit1");
+        
     }
 }
